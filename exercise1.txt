@@ -1,0 +1,4 @@
+name = input('enter you name please')
+age = input('when were you born?')
+print('so your name is ' + name + ' and you are ' + (2016 - age) + ' years old.')
+print('You will be 100 years old in ' + (age + 100) + '.')
